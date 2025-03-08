@@ -14,5 +14,13 @@
     "body-parser": "^1.20.2",
     "express": "^4.21.2"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jh0nSmith5/lab.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jh0nSmith5/lab/issues"
+  },
+  "homepage": "https://github.com/Jh0nSmith5/lab#readme"
 }
